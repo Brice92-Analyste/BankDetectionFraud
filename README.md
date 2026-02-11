@@ -173,7 +173,7 @@ It represents the most stable solution for a realistic operational context.
 
 credit-card-fraud-detection/
 │
-├── Credit_Card_Fraud_Detection_Final.ipynb
+├── EDA 1.ipynb
 ├── README.md
 ├── .gitignore
 └── figures/
